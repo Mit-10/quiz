@@ -1,0 +1,28 @@
+.correct-answers .container {
+    padding-top: 20px;
+    padding-bottom: 60px;
+}
+
+
+.correct-answers-descriptions {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+
+.questions {
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+}
+
+.test-question-options {
+    margin-top: 40px;
+
+}
+
+
+.test-question-title {
+    margin-top: 28px;
+}
